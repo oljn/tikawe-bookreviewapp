@@ -1,5 +1,6 @@
 # Kirja-arviointisovellus
-    
+Sovelluksen suunnitellut toiminnot:
+
 * Sovelluksessa käyttäjät pystyvät etsimään uutta luettavaa, jakamaan arvosteluja lukemistaan kirjoista ja lukemaan muiden arvosteluja. Kirjojen tietosivuilla ilmoitetaan kirjan nimi, kirjailija, sekä kirjan synopsis.
 * Käyttäjä pystyy luomaan tunnuksen ja kirjautumaan sisään sovellukseen.
 * Käyttäjä pystyy lisäämään sovellukseen kirjoja ja niiden tietoja ja muokkaamaan ja poistamaan lisäämiänsä kirjoja sovelluksesta.
@@ -10,5 +11,8 @@
 * Käyttäjä pystyy antamaan kirjalle kommentin (sanallisen arvostelun) ja arvosanan. Kustakin kirjasta näytetään käyttäjien kommenteilla tekemät arviot ja keskimääräinen arvosana.
 
 Sovelluksen pääasiallinen tietokohde on kirjan tietosivu ja toissijainen tietokohde on kommentti (jonka kautta arvosteluja jätetään).
+
+Sovellus on tällä hetkellä erittäin keskeneräinen. Valitettavasti välipalautuksen 2 kaikki tavoitteet eivät tällä hetkellä (välipalautuksen 2 deadline) täyty. Koska ne listataan vain tavoitteiksi absoluuttisten vaatimusten sijaan ja kurssi arvioidaan lopullisen sovelluksen perusteella, oletan tämän olevan ok.
+
 
 
